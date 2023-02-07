@@ -11,8 +11,17 @@ Currently I work in a large corporation in the fuel industry in the Department o
 
 
 ## Tech skills
+* ISTQB: Foundation Level
+* Databases: MySQL, MS SQL
+* Testing: POSTMAN, SELENIUM
+* Other tools: Confluence, JIRA, Trello, TestLink
+
 
 ## Courses 
+*  **Sii Training Practice** ISTQB® Foundation
+*  Praktyczny kurs testowania oprogramowania
+*  Software Testing: Learn Software Testing And Get A Tech Job
+
 
 ## Technical Books read
 
